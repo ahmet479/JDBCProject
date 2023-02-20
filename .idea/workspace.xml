@@ -5,19 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8723582f-a029-4072-bc42-3684c6a6b599" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CallableStatement01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Execute01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExecuteQuery01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExecuteQuery02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/ExecuteUpdate01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/JdbcUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/PreparedStatement01.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
