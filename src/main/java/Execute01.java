@@ -18,6 +18,7 @@ public class Execute01 {
         System.out.println("Baglanti Basarili");
 
         //4.Adim: Query(sorgu) olustur
+
         //1: Ornek: "workers" adinda bir table olusturup "worker_id, worker_name, worker_salary" sutunlarini ekleyin
 
 
